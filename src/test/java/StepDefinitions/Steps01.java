@@ -1,0 +1,7 @@
+package StepDefinitions;
+
+public class Steps01 {
+    public static void main(String [] args){
+        System.out.println("Goku: Hello from earth");
+    }
+}
